@@ -1,0 +1,7 @@
+[
+  {"vuelo":"10:01–11:00","actividad":"11:46–12:45","incrementos":[{"rango":"01–30","descanso":"01:45"},{"rango":"31–60","descanso":"02:00"}]},
+  {"vuelo":"11:01–12:00","actividad":"12:46–13:45","incrementos":[{"rango":"01–30","descanso":"02:15"},{"rango":"31–60","descanso":"02:30"},{"rango":">60","descanso":"02:45"}]},
+  {"vuelo":"12:01–12:30","actividad":"13:46–14:15","incrementos":[{"rango":">0","descanso":"02:55"}]},
+  {"vuelo":"12:31–13:30","actividad":"14:16–15:15","incrementos":[{"rango":"01–30","descanso":"02:55"},{"rango":"31–60","descanso":"03:10"},{"rango":">60","descanso":"03:25"}]},
+  {"vuelo":"13:31–14:30","actividad":"15:16–16:15","incrementos":[{"rango":"61–150","descanso":"03:25"},{"rango":"151–270","descanso":"03:40"}]}
+]
